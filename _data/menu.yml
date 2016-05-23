@@ -1,0 +1,12 @@
+
+mainmenu:
+  home:
+    url: "/"
+    text: "Home"
+    icon_class: "fa-home"
+  blog:
+    url: "/blog/"
+    text: "Blog"
+  other:
+    url: "/other/"
+    text: "Other"

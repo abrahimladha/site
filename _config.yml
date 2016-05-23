@@ -1,0 +1,18 @@
+# Site settings
+title: Abrahim Ladha
+email: abrahimladha@protonmail.ch
+description: "Welcome to my site"
+logo_location: "https://placehold.it/100x100&text=LOGO"
+destination: /var/www/html/abrahimladha
+baseurl: "/abrahimladha" # the subpath of your site, e.g. /blog/
+url: "https://vgd.me/abrahimladha" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: pygments
+
+#Other Global Configuration
+exclude: ['README.md']
